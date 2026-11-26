@@ -56,3 +56,27 @@ Python, pandas, NumPy, matplotlib, scikit-learn and TensorFlow/Keras.
 5. Run the cells in order from top to bottom.
 
 The datasets need to be uploaded again when starting a fresh Colab runtime.
+
+## Dataset Sources and Credits
+
+### Rice (Cammeo and Osmancik)
+
+Source: UCI Machine Learning Repository, 2019.
+Contains 3,810 rice samples with seven numerical features.
+
+Dataset: https://doi.org/10.24432/C5MW4Z
+
+Licence: Creative Commons Attribution 4.0 International (CC BY 4.0).
+https://creativecommons.org/licenses/by/4.0/
+
+The project uses a CSV version named `Rice_C_O.csv`.
+
+### Top 1000 Steam Games (2024–2026)
+
+Dataset published by Kaggle user `waddahali`.
+
+Dataset: https://www.kaggle.com/datasets/waddahali/top-1000-steam-games-20242026
+
+The project uses a local copy named `steam_games.csv`.
+
+All dataset credits belong to their respective creators.
