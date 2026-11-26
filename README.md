@@ -74,9 +74,17 @@ The project uses a CSV version named `Rice_C_O.csv`.
 ### Top 1000 Steam Games (2024–2026)
 
 Dataset published by Kaggle user `waddahali`.
+Licence: Creative Commons Attribution 4.0 International (CC BY 4.0).
+
+https://creativecommons.org/licenses/by/4.0/
 
 Dataset: https://www.kaggle.com/datasets/waddahali/top-1000-steam-games-20242026
 
 The project uses a local copy named `steam_games.csv`.
 
 All dataset credits belong to their respective creators.
+Licence: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0).
+
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+
